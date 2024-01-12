@@ -70,7 +70,7 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 80
         icon: person-hiking
         icon_pack: fas
       - name: Cats
